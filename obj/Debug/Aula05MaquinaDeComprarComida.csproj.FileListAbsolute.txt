@@ -1,0 +1,11 @@
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\bin\Debug\Aula05MaquinaDeComprarComida.exe.config
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\bin\Debug\Aula05MaquinaDeComprarComida.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\bin\Debug\Aula05MaquinaDeComprarComida.pdb
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.csproj.AssemblyReference.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.Form1.resources
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.Properties.Resources.resources
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.csproj.GenerateResource.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula05MaquinaDeComprarComida\Aula05MaquinaDeComprarComida\obj\Debug\Aula05MaquinaDeComprarComida.pdb
